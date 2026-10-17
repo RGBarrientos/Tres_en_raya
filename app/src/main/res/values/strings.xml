@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tres en raya</string>
+    <string name="TresEnRaya">Tres en raya</string>
+    <string name="reglas">En este juego, dos personas tomaran turnos. Cada uno eligirá una casilla de las nueve disponibles para marcarla, hasta que alguno gane o se marquen todas las casillas. El juego se gana cuando se han marcado tres casillas que forman una linea recta (en direciones vertical, horizontal o diagonal). Que pase un buen trato jugando.</string>
+    <string name="iniciar_button">Jugar</string>
+    <string name="descripcionCasilla">Esto es una casilla</string>
+    <string name="f" />
+    <string name="reiniciar_button">Reiniciar</string>
+    <string name="menu_button">Menu</string>
+    <string name="ganadorJug1">Ganó el jugador 1 (o)</string>
+    <string name="ganadorJug2">Ganó el jugador 2 (x)</string>
+    <string name="empate">Empate</string>
+    <string name="dificultad">Dificultad</string>
+    <string name="solo_facil">Un jugador - Fácil</string>
+    <string name="solo_dificil">Un jugador - Difícil</string>
+    <string name="dosjugadores">Dos jugadores</string>
+</resources>
